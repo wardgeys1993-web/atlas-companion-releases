@@ -1,0 +1,19 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 17,
+  "versionName": "0.11.0",
+  "sha256": "66123b4e98429fdf104403a54f62d3bb2b9a1d35b3e03ed3c4b0dadfc19b9022",
+  "bytes": 15333289,
+  "minSdk": 26,
+  "notes": [
+    "Your unfinished messages and attached photos are saved privately in each phone conversation, including while offline. Nothing is sent automatically.",
+    "Find, rename, archive, copy or delete phone conversations. Older local transcripts that fell out of the chat list are recovered where available.",
+    "Connection drops now end the interrupted reply cleanly. Reconnecting does not replay your request.",
+    "Talk to Atlas from Quick Settings waits for the connection to be ready. On-device dictation can save a draft while offline.",
+    "Live talk handles Stop more reliably when Atlas mentions the word in a longer reply. Approval prompts are easier to reach with accessibility tools.",
+    "A downloaded update stays available to review and install when your desktop or GitHub is temporarily unreachable.",
+    "Connection diagnostics explain the stage that failed without including your messages, addresses or pairing credentials.",
+    "Connect on open now follows your preference and foreground state more consistently.",
+    "Desktop companion changes add individual phone revocation, conversation management and memory correction. These require the updated desktop code and a restart."
+  ]
+}

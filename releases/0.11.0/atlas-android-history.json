@@ -1,0 +1,133 @@
+{
+  "releases": [
+    {
+      "version": "0.11.0",
+      "date": "24 Sep 2026",
+      "title": "A companion you can count on",
+      "notes": [
+        "Your unfinished messages and attached photos are saved privately in each phone conversation, including while offline. Nothing is sent automatically.",
+        "Find, rename, archive, copy or delete phone conversations. Older local transcripts that fell out of the chat list are recovered where available.",
+        "Connection drops now end the interrupted reply cleanly. Reconnecting does not replay your request.",
+        "Talk to Atlas from Quick Settings waits for the connection to be ready. On-device dictation can save a draft while offline.",
+        "Live talk handles Stop more reliably when Atlas mentions the word in a longer reply. Approval prompts are easier to reach with accessibility tools.",
+        "A downloaded update stays available to review and install when your desktop or GitHub is temporarily unreachable.",
+        "Connection diagnostics explain the stage that failed without including your messages, addresses or pairing credentials.",
+        "Connect on open now follows your preference and foreground state more consistently.",
+        "Desktop companion changes add individual phone revocation, conversation management and memory correction. These require the updated desktop code and a restart."
+      ]
+    },
+    {
+      "version": "0.10.4",
+      "date": "24 Sep 2026",
+      "title": "Atlas at your fingertips",
+      "notes": [
+        "Share a screenshot or photo from another Android app into an editable Atlas request. Atlas re-encodes it without source metadata and waits for you to press Send.",
+        "The Atlas Live home-screen widget shows real connection and work state without displaying chat text or private paths.",
+        "A Quick Settings tile opens the phone's Live talk surface with one deliberate tap. Permission and foreground rules still apply."
+      ]
+    },
+    {
+      "version": "0.10.3",
+      "date": "24 Sep 2026",
+      "title": "Room to breathe",
+      "notes": [
+        "The chat now gives conversations the space they deserve, with a compact Atlas presence that stays alive without covering your messages.",
+        "A fixed wordmark, quieter navigation, simpler composer and smaller voice controls make the phone feel calm and deliberate.",
+        "Long replies and code are easier to read. The layout has been checked on compact screens and at larger text sizes."
+      ]
+    },
+    {
+      "version": "0.10.2",
+      "date": "24 Sep 2026",
+      "title": "A quicker way home",
+      "notes": [
+        "When home Wi-Fi is unreachable, Atlas switches to the verified private 5G route faster.",
+        "The GitHub update flow was installed and verified on a phone over 5G, including the post-install journal."
+      ]
+    },
+    {
+      "version": "0.10.1",
+      "date": "24 Sep 2026",
+      "title": "Atlas travels with you",
+      "notes": [
+        "The updater can find releases on GitHub even when the paired desktop is out of reach.",
+        "Downloads are checked for package, version, size, SHA-256 and the installed signing certificate before Android offers installation.",
+        "A verified Tailscale route lets the same desktop Companion answer your phone away from home."
+      ]
+    },
+    {
+      "version": "0.10.0",
+      "date": "Record unavailable",
+      "title": "An unrecorded step",
+      "notes": [
+        "No separate 0.10.0 Android release notes were preserved. The documented history resumes at 0.10.1."
+      ]
+    },
+    {
+      "version": "0.9.1",
+      "date": "24 Sep 2026",
+      "title": "Conversations with continuity",
+      "notes": [
+        "Phone chats gained their own encrypted conversation list, separate from desktop chats.",
+        "Atlas can retrieve relevant context from the 10 most recent phone chats without mixing them into desktop history.",
+        "Phone requests stay visible in the desktop Companion while their conversations remain separate."
+      ]
+    },
+    {
+      "version": "0.9.0",
+      "date": "24 Sep 2026",
+      "title": "His real voice",
+      "notes": [
+        "Live talk and Read use the voice selected in desktop Companion instead of the phone's generic system voice.",
+        "Voice travels over the existing authenticated, certificate-pinned connection and stops when you interrupt or leave Chat."
+      ]
+    },
+    {
+      "version": "0.8.0",
+      "date": "23 Sep 2026",
+      "title": "One Atlas, two screens",
+      "notes": [
+        "A live pairing QR links the phone to the normal desktop Companion.",
+        "Build progress, saved results and requested previews follow real work on the PC.",
+        "Live talk, optional reconnect, private Signals and explicit connection status made the companion more present."
+      ]
+    },
+    {
+      "version": "0.7.0",
+      "date": "23 Sep 2026",
+      "title": "Keep what you make",
+      "notes": [
+        "An encrypted mission library saves build receipts, step timelines and isolated website previews on the phone.",
+        "Interrupted work is labeled honestly. Refinement prepares a new draft, while Forget removes only the phone receipt."
+      ]
+    },
+    {
+      "version": "0.6.0",
+      "date": "23 Sep 2026",
+      "title": "The droid comes alive",
+      "notes": [
+        "New shared sprite animations let the original Atlas greet, listen, think, speak, code, review and rest on both devices.",
+        "Phone requests summon the existing desktop Companion and show their real work there."
+      ]
+    },
+    {
+      "version": "0.5.0",
+      "date": "23 Sep 2026",
+      "title": "More than a chat",
+      "notes": [
+        "You could attach a photo, follow phone-origin build milestones and preview a generated website.",
+        "Encrypted memory cards became separate from chat, with explicit save, edit and delete controls.",
+        "On-device dictation and private VPN pairing laid the foundation for using Atlas away from home."
+      ]
+    },
+    {
+      "version": "0.4.0",
+      "date": "22 Sep 2026",
+      "title": "A companion takes shape",
+      "notes": [
+        "The original droid gained a warm native stage, custom type, amber light and a more expressive phone interface.",
+        "Chat, navigation, composer, connection and update journal were redesigned with accessible motion controls."
+      ]
+    }
+  ]
+}
