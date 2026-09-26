@@ -1,0 +1,16 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 18,
+  "versionName": "0.12.0",
+  "sha256": "163237d493037340f04162f5156cd74ac0ec109a962c8434c905b6d82959145a",
+  "bytes": 15349857,
+  "minSdk": 26,
+  "notes": [
+    "Unfinished messages stay intact when a shared link, photo, suggestion or spoken thought arrives. Choose how to use the new content.",
+    "Using an earlier request now opens an editable draft. Atlas never sends it again without your tap, and photo requests ask you to reattach the image.",
+    "First-time setup puts connecting your PC first, waits for a verified link, and guides you into your first real question. Release notes appear after upgrades.",
+    "Connection status distinguishes a saved desktop, an active attempt, a user disconnect and a failed link.",
+    "Chat gives the conversation more room with a smaller header, Atlas rail and empty state.",
+    "Voice controls announce Stop reading or Stop dictation when active. Android settings are available after microphone permission is denied."
+  ]
+}
