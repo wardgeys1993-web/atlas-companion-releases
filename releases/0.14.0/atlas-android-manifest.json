@@ -1,0 +1,15 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 23,
+  "versionName": "0.14.0",
+  "sha256": "7b37b46d3b9d686e184db8dfe45bb0bbe5c5ea9a33b907df3397e4c3fb248338",
+  "bytes": 15853000,
+  "minSdk": 26,
+  "notes": [
+    "Atlas has a new amber look across the phone and desktop companion.",
+    "Desktop Handoff can bring a short, expiring conversation excerpt to your phone for review before you make a draft.",
+    "Pocket Projects can keep explicitly selected project files and notes encrypted on your phone while the PC is off. Returning notes or photos to the desktop requires review and approval.",
+    "Desktop Studio adds guided Windows controls, verified engineering missions, output watches, project checkpoints, and bounded OBS and Blender actions. These require the matching desktop update.",
+    "Saved Pocket Tools, alarms, timers and private notes remain on your phone. This update keeps the same signing identity and does not clear app data."
+  ]
+}

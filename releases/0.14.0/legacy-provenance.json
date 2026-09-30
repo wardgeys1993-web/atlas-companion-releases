@@ -1,0 +1,64 @@
+{
+  "version": "0.14.0",
+  "classification": "legacy asset provenance recovery",
+  "releaseId": 397851348,
+  "releaseUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/tag/v0.14.0",
+  "originalReleaseName": "Atlas Companion 0.14.0",
+  "publishedAt": "2026-09-27T23:14:09Z",
+  "existingTag": "v0.14.0",
+  "existingTagCommit": "4c23a7a56bf8f615b7d749163845dd73c4e0e17b",
+  "sourceRepository": "wardgeys1993-web/atlas-companion",
+  "sourceCommit": null,
+  "sourceProvenance": "Unknown. This record does not reconstruct the complete historical build source.",
+  "assets": [
+    {
+      "id": 593972205,
+      "name": "Atlas-0.14.0-update.zip",
+      "bytes": 9375437,
+      "sha256": "60b6ddc27b302f24e80c76dc32dc28843b677d551250e00d95082912e677cf1d",
+      "downloadUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/download/v0.14.0/Atlas-0.14.0-update.zip"
+    },
+    {
+      "id": 593972206,
+      "name": "Atlas-Android-0.14.0.apk",
+      "bytes": 15853000,
+      "sha256": "7b37b46d3b9d686e184db8dfe45bb0bbe5c5ea9a33b907df3397e4c3fb248338",
+      "downloadUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/download/v0.14.0/Atlas-Android-0.14.0.apk"
+    },
+    {
+      "id": 593972208,
+      "name": "atlas-android-history.json",
+      "bytes": 10570,
+      "sha256": "4b625e8ee1589bf87306f79291b0974fc7e890e334534eacecac21f754c7ec42",
+      "downloadUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/download/v0.14.0/atlas-android-history.json"
+    },
+    {
+      "id": 593972207,
+      "name": "atlas-android-manifest.json",
+      "bytes": 980,
+      "sha256": "ef3aaa9b582790da4c895974e121a659a0f66326392ac5a124be9aadf97f3527",
+      "downloadUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/download/v0.14.0/atlas-android-manifest.json"
+    },
+    {
+      "id": 593972204,
+      "name": "atlas-desktop-history.json",
+      "bytes": 2055,
+      "sha256": "ed8cb5ab9065ef55fd2a09d2ca7ba79dab3e0b844588cbfade8587c6c6c3677a",
+      "downloadUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/download/v0.14.0/atlas-desktop-history.json"
+    },
+    {
+      "id": 593972228,
+      "name": "atlas-desktop-manifest.json",
+      "bytes": 193,
+      "sha256": "beb0a5403eb0a1dee34c189596acabf881bac4e4096f9fbcfd94d655341b0f0d",
+      "downloadUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/download/v0.14.0/atlas-desktop-manifest.json"
+    },
+    {
+      "id": 593972227,
+      "name": "release-notes.md",
+      "bytes": 4005,
+      "sha256": "2353419cf44b1a0b0405496b073f3ad055461a6da9c77bf97e907bb02145f30a",
+      "downloadUrl": "https://github.com/wardgeys1993-web/atlas-companion-releases/releases/download/v0.14.0/release-notes.md"
+    }
+  ]
+}
