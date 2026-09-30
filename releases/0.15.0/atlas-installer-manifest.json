@@ -1,0 +1,8 @@
+{
+  "version": "0.15.0",
+  "asset": "AtlasSetup-0.15.0.exe",
+  "bytes": 33498390,
+  "sha256": "37227c2ba91df6d71e4c69c507276aea3b00f359a68f7a0f78d9201cd42aa45d",
+  "desktopPayloadSha256": "48c8fd6d3ef6122cb53e1eea7bbcd3b0d7d18eec6e88003fdd0b39929f709313",
+  "embeddedLauncherSha256": "1710a096b947b59ce5f36f12e773aac939e7f56f0b4afa6964e475519ed69a54"
+}

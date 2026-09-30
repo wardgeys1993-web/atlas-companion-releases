@@ -1,0 +1,15 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 24,
+  "versionName": "0.15.0",
+  "sha256": "5973c7abf4e46b6332d35a1d91007bfc3efc1bcd791c5e27ef65644a341a6217",
+  "bytes": 15869644,
+  "minSdk": 26,
+  "notes": [
+    "Phone and desktop chats share one encrypted desktop conversation archive. A conversation started on either device can continue on the other when connected.",
+    "The phone reconnects to its saved PC after a dropped connection or desktop restart, using the existing paired identity.",
+    "A phone web search can request access for one turn. The separate /web on command asks for lasting access until /web off.",
+    "The desktop can open an exact Windows Search result and act on named controls or unique visible text after approval.",
+    "Optional local Ming Image generation can supply original assets for confirmed website builds."
+  ]
+}
