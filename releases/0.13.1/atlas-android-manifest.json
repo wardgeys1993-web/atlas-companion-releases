@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 22,
+  "versionName": "0.13.1",
+  "sha256": "1ff77bb727fe485b794e2d6bcf7a5e69d23b2b932ce2e3792c2e93d98ac41488",
+  "bytes": 15770664,
+  "minSdk": 26,
+  "notes": [
+    "Pocket Tools now opens the actual tool instead of a blank dark screen on affected Android phones.",
+    "The tool player keeps its controls visible and sizes the embedded tool to the phone's real viewport, including after a resize.",
+    "A tool saved from desktop Studio can be edited and reopened on the phone with its changes intact. Your saved copies and other phone data remain in place during this update.",
+    "Pocket Tools still runs without a network or device bridge. Existing phone copies stay encrypted and independent of desktop updates."
+  ]
+}
