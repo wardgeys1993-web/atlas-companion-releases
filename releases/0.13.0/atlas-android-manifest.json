@@ -1,0 +1,18 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 21,
+  "versionName": "0.13.0",
+  "sha256": "f00775067fe450931c777b997f988ab38a19ed24f0d76fade82bf4cd8d44fbde",
+  "bytes": 15770660,
+  "minSdk": 26,
+  "notes": [
+    "Pocket Tools brings tools made in the desktop Studio onto your phone. Share a copy on your PC, then download it from Pocket Tools to keep using it while the PC is off.",
+    "Saved tools and their data are encrypted on this phone. Phone edits stay here, and shared desktop updates never replace your saved copy automatically.",
+    "Ask Atlas to set an alarm or timer on this phone. When it fires, Atlas speaks in his own voice, then rings and vibrates locally even if the desktop is off.",
+    "An alarm runs once unless you ask for daily, weekdays or specific days. Android may ask you to allow Alarms & reminders first.",
+    "Ask Atlas to create a private note on this phone. Notes are encrypted locally and available in the new phone-actions panel.",
+    "Phone actions require your approval and a success receipt from the requesting phone. Unknown or unapproved actions change nothing.",
+    "Open Alarms, timers & notes from Companion to review, cancel or delete items. Alarm alerts offer Dismiss and a ten-minute Snooze.",
+    "Tap Start Atlas on PC when Windows is on and signed in but the desktop companion is closed. The PC starter uses your existing paired identity. Wi-Fi cannot wake a sleeping or powered-off PC."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "releases": [
+    {
+      "version": "0.13.0",
+      "date": "2026-09-26",
+      "title": "A companion across desktop and phone",
+      "notes": [
+        "The companion can move across both displays. Speech subtly favors the display where Atlas is standing.",
+        "Studio tools can be shared explicitly to paired Android devices and saved there for offline use.",
+        "An authenticated PC starter can launch the companion from Android while Windows is awake and signed in.",
+        "Android adds local alarms in Atlas's voice, timers and encrypted notes with phone-side approval."
+      ],
+      "details": "docs/public/RELEASE_0.13.0.md"
+    }
+  ]
+}
