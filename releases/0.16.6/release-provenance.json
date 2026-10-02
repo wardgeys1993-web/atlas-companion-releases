@@ -1,0 +1,54 @@
+{
+  "version": "0.16.6",
+  "androidCode": 31,
+  "sourceRepository": "wardgeys1993-web/atlas-companion",
+  "sourceCommit": "46ff9fb58bc83de26e2cc36b3ddc57e4cfc0e3fb",
+  "sourceTree": "c434b60f5c8b718ed35b29fb14983c69cc617d1b",
+  "sourceTag": "v0.16.6",
+  "testEvidence": {
+    "desktop-tests.json": "e2b5476f2d04814c87b8ef922f3c69aa2a26cca6836d16aa9c9a5b8ee05d7f6a",
+    "secrets.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "assets": {
+    "Atlas-0.16.6-update.zip": {
+      "sha256": "207541272d060bfcaf0fefedde4dd5a87deb1cdb5bfaaeed0269bd367dca4065",
+      "bytes": 38776154
+    },
+    "Atlas-Android-0.16.6.apk": {
+      "sha256": "b504c214a9a58f775759fdddfe7e99f81b5679dc76d4c0971f5659fcb7701ea1",
+      "bytes": 89707886
+    },
+    "atlas-android-history.json": {
+      "sha256": "be608a787fe6dd21784150ca82e61328e4d7296503113293c385fd3387fa03bb",
+      "bytes": 15783
+    },
+    "atlas-android-manifest.json": {
+      "sha256": "bfc7069ed9ac291925b687df03b3c9f4dd9f71859a139e5d1559e69c03646c33",
+      "bytes": 894
+    },
+    "atlas-desktop-history.json": {
+      "sha256": "035a51284636b87bfd89ed13732e43cf1a45fbc9283a72195c1af56282fb3df7",
+      "bytes": 5865
+    },
+    "atlas-desktop-manifest.json": {
+      "sha256": "21f37450cc9962428a62783d8083427ab9359015e0b6e3b46e93c646e807ba87",
+      "bytes": 194
+    },
+    "atlas-installer-manifest.json": {
+      "sha256": "87efa39170e0dd1f0bca556413a0481fe421dde0f7956e3362d43934639a221a",
+      "bytes": 361
+    },
+    "AtlasSetup-0.16.6.exe": {
+      "sha256": "352ca658129e54861a5effabc83908c609bdcc579c2cdecadd624f424c977408",
+      "bytes": 62873896
+    },
+    "release-notes.md": {
+      "sha256": "d68ff01e22293b93e0a51f5cd7431608eadafd3f007426a4c74ad675ce5813e9",
+      "bytes": 1871
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "049d782fdd333e84666b2f0f407da2fd5bc5664f1c7fc05a0308f7e8e9ba260e",
+      "bytes": 831
+    }
+  }
+}

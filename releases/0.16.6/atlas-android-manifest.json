@@ -1,0 +1,16 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 31,
+  "versionName": "0.16.6",
+  "sha256": "b504c214a9a58f775759fdddfe7e99f81b5679dc76d4c0971f5659fcb7701ea1",
+  "bytes": 89707886,
+  "minSdk": 26,
+  "notes": [
+    "Compressed native libraries keep the Android APK within the existing updater limit, with all four CPU architectures retained.",
+    "Builds check APK size, and release preflight validates bounded notes before creating version tags.",
+    "Local voice selects the optional fidelity model using its corrected checksum.",
+    "Offline English speech setup, alarm scheduling, draft recovery and approval/photo controls include recent repairs.",
+    "Shared encrypted memory, the Brain view, desktop chat and companion improvements are included.",
+    "Hey Atlas standby remains experimental: repeated wake detection is not reliable on the tested phone."
+  ]
+}

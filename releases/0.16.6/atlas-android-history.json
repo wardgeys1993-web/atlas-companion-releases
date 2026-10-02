@@ -1,0 +1,274 @@
+{
+  "releases": [
+    {
+      "version": "0.16.6",
+      "date": "2026-10-03",
+      "title": "Verified update packaging and phone repairs",
+      "notes": [
+        "Compressed native libraries keep the Android APK within the existing updater limit, with all four CPU architectures retained.",
+        "Builds check APK size, and release preflight validates bounded notes before creating version tags.",
+        "Local voice selects the optional fidelity model using its corrected checksum.",
+        "Offline English speech setup, alarm scheduling, draft recovery and approval/photo controls include recent repairs.",
+        "Shared encrypted memory, the Brain view, desktop chat and companion improvements are included.",
+        "Hey Atlas standby remains experimental: repeated wake detection is not reliable on the tested phone."
+      ]
+    },
+    {
+      "version": "0.16.5",
+      "date": "2026-10-03",
+      "title": "Update packaging and phone reliability",
+      "notes": [
+        "Compressed native libraries keep the Android download within the existing updater size limit, with all supported CPU architectures retained.",
+        "Android builds check the APK size before it can reach release staging.",
+        "Local voice model selection, offline speech setup, alarm scheduling and approval controls include the recent Android repairs.",
+        "Hey Atlas standby remains experimental: repeated wake detection is not reliable on the tested phone."
+      ]
+    },
+    {
+      "version": "0.16.4",
+      "date": "2026-10-03",
+      "title": "Local voice model selection",
+      "notes": [
+        "Corrected the optional fidelity model checksum so matching saved models can be selected.",
+        "Debug builds include audio-level and synthesis diagnostics without recording microphone audio or recognized words."
+      ]
+    },
+    {
+      "version": "0.16.3",
+      "date": "2026-10-03",
+      "title": "Local voice recovery and readable photo review",
+      "notes": [
+        "Invalid local voice output retries the standard INT8 model before playback. Invalid audio cannot reach PCM conversion.",
+        "Photo review keeps the image status and caption together at larger text sizes."
+      ]
+    },
+    {
+      "version": "0.16.2",
+      "date": "2026-10-02",
+      "title": "Phone speech setup and visible approvals",
+      "notes": [
+        "Download missing English offline speech from Atlas or open Android voice input settings.",
+        "Standby checks offline speech readiness and uses the same English request language as dictation.",
+        "Deny and Allow once stay visible below long approval descriptions."
+      ]
+    },
+    {
+      "version": "0.16.1",
+      "date": "2026-10-02",
+      "title": "Safer alarms and speech recovery",
+      "notes": [
+        "Hey Atlas standby keeps wake detection active during speech, filters self-echo by words and retains busy or offline requests as drafts.",
+        "Weekly alarms handle missing spring clock times and keep independent schedules. Duplicate deliveries cannot ring the next occurrence early.",
+        "Unfinished speech survives connection loss and recognition errors as an unsent draft. Microphone permission errors offer Android settings.",
+        "Android 8 can attach bounded photos for explicit review and sending.",
+        "Morning headlines use the actual BBC feed name."
+      ]
+    },
+    {
+      "version": "0.16.0",
+      "date": "2026-09-30",
+      "title": "One assistant, durable memory and local voice",
+      "notes": [
+        "Shared encrypted memory gains a Brain map, full-archive search and source-linked decisions and open questions.",
+        "Desktop chat supports readable controls, resizing, maximize and bounded speech cards; droid animations use calm idle poses and amber thinking instruments.",
+        "Optional Supertonic 3 provides CPU speech in 31 languages. Connected-phone replies use the selected desktop voice; local Android voice remains Kokoro.",
+        "Android Live Talk handles offline language errors and offers opt-in Hey Atlas standby with a visible microphone service.",
+        "Atlas-owned alarms and configured morning weather/news briefings use local phone audio. Location and sources are user settings.",
+        "Website builds wait for a confirmed brief, show elapsed progress, support cancellation and verify saved image references and mobile CSS.",
+        "Release provenance binds the complete private source commit to matching signed desktop updates, APKs, versioned installers and public metadata."
+      ]
+    },
+    {
+      "version": "0.15.0",
+      "date": "28 Sep 2026",
+      "title": "One Atlas across phone and PC",
+      "notes": [
+        "Phone and desktop chats share one encrypted desktop conversation archive. A conversation started on either device can continue on the other when connected.",
+        "The phone reconnects to its saved PC after a dropped connection or desktop restart, using the existing paired identity.",
+        "A phone web search can request access for one turn. The separate /web on command asks for lasting access until /web off.",
+        "The desktop can open an exact Windows Search result and act on named controls or unique visible text after approval.",
+        "Optional local Ming Image generation can supply original assets for confirmed website builds."
+      ]
+    },
+    {
+      "version": "0.14.0",
+      "date": "28 Sep 2026",
+      "title": "Atlas works across your screens and phone",
+      "notes": [
+        "Atlas has a new amber look across the phone and desktop companion.",
+        "Desktop Handoff can bring a short, expiring conversation excerpt to your phone for review before you make a draft.",
+        "Pocket Projects can keep explicitly selected project files and notes encrypted on your phone while the PC is off. Returning notes or photos to the desktop requires review and approval.",
+        "Desktop Studio adds guided Windows controls, verified engineering missions, output watches, project checkpoints, and bounded OBS and Blender actions. These require the matching desktop update.",
+        "Saved Pocket Tools, alarms, timers and private notes remain on your phone. This update keeps the same signing identity and does not clear app data."
+      ]
+    },
+    {
+      "version": "0.13.1",
+      "date": "26 Sep 2026",
+      "title": "Pocket Tools you can actually use",
+      "notes": [
+        "Pocket Tools now opens the actual tool instead of a blank dark screen on affected Android phones.",
+        "The tool player keeps its controls visible and sizes the embedded tool to the phone's real viewport, including after a resize.",
+        "A tool saved from desktop Studio can be edited and reopened on the phone with its changes intact. Your saved copies and other phone data remain in place during this update.",
+        "Pocket Tools still runs without a network or device bridge. Existing phone copies stay encrypted and independent of desktop updates."
+      ]
+    },
+    {
+      "version": "0.13.0",
+      "date": "26 Sep 2026",
+      "title": "Atlas on your phone",
+      "notes": [
+        "Pocket Tools brings tools made in the desktop Studio onto your phone. Share a copy on your PC, then download it from Pocket Tools to keep using it while the PC is off.",
+        "Saved tools and their data are encrypted on this phone. Phone edits stay here, and shared desktop updates never replace your saved copy automatically.",
+        "Ask Atlas to set an alarm or timer on this phone. When it fires, Atlas speaks in his own voice, then rings and vibrates locally even if the desktop is off.",
+        "An alarm runs once unless you ask for daily, weekdays or specific days. Android may ask you to allow Alarms & reminders first.",
+        "Ask Atlas to create a private note on this phone. Notes are encrypted locally and available in the new phone-actions panel.",
+        "Phone actions require your approval and a success receipt from the requesting phone. Unknown or unapproved actions change nothing.",
+        "Open Alarms, timers & notes from Companion to review, cancel or delete items. Alarm alerts offer Dismiss and a ten-minute Snooze.",
+        "Tap Start Atlas on PC when Windows is on and signed in but the desktop companion is closed. The PC starter uses your existing paired identity. Wi-Fi cannot wake a sleeping or powered-off PC."
+      ]
+    },
+    {
+      "version": "0.12.0",
+      "date": "26 Sep 2026",
+      "title": "More room for your thoughts",
+      "notes": [
+        "Unfinished messages stay intact when a shared link, photo, suggestion or spoken thought arrives. Choose how to use the new content.",
+        "Using an earlier request now opens an editable draft. Atlas never sends it again without your tap, and photo requests ask you to reattach the image.",
+        "First-time setup puts connecting your PC first, waits for a verified link, and guides you into your first real question. Release notes appear after upgrades.",
+        "Connection status distinguishes a saved desktop, an active attempt, a user disconnect and a failed link.",
+        "Chat gives the conversation more room with a smaller header, Atlas rail and empty state.",
+        "Voice controls announce Stop reading or Stop dictation when active. Android settings are available after microphone permission is denied."
+      ]
+    },
+    {
+      "version": "0.11.0",
+      "date": "24 Sep 2026",
+      "title": "A companion you can count on",
+      "notes": [
+        "Your unfinished messages and attached photos are saved privately in each phone conversation, including while offline. Nothing is sent automatically.",
+        "Find, rename, archive, copy or delete phone conversations. Older local transcripts that fell out of the chat list are recovered where available.",
+        "Connection drops now end the interrupted reply cleanly. Reconnecting does not replay your request.",
+        "Talk to Atlas from Quick Settings waits for the connection to be ready. On-device dictation can save a draft while offline.",
+        "Live talk handles Stop more reliably when Atlas mentions the word in a longer reply. Approval prompts are easier to reach with accessibility tools.",
+        "A downloaded update stays available to review and install when your desktop or GitHub is temporarily unreachable.",
+        "Connection diagnostics explain the stage that failed without including your messages, addresses or pairing credentials.",
+        "Connect on open now follows your preference and foreground state more consistently.",
+        "Desktop companion changes add individual phone revocation, conversation management and memory correction. These require the updated desktop code and a restart."
+      ]
+    },
+    {
+      "version": "0.10.4",
+      "date": "24 Sep 2026",
+      "title": "Atlas at your fingertips",
+      "notes": [
+        "Share a screenshot or photo from another Android app into an editable Atlas request. Atlas re-encodes it without source metadata and waits for you to press Send.",
+        "The Atlas Live home-screen widget shows real connection and work state without displaying chat text or private paths.",
+        "A Quick Settings tile opens the phone's Live talk surface with one deliberate tap. Permission and foreground rules still apply."
+      ]
+    },
+    {
+      "version": "0.10.3",
+      "date": "24 Sep 2026",
+      "title": "Room to breathe",
+      "notes": [
+        "The chat now gives conversations the space they deserve, with a compact Atlas presence that stays alive without covering your messages.",
+        "A fixed wordmark, quieter navigation, simpler composer and smaller voice controls make the phone feel calm and deliberate.",
+        "Long replies and code are easier to read. The layout has been checked on compact screens and at larger text sizes."
+      ]
+    },
+    {
+      "version": "0.10.2",
+      "date": "24 Sep 2026",
+      "title": "A quicker way home",
+      "notes": [
+        "When home Wi-Fi is unreachable, Atlas switches to the verified private 5G route faster.",
+        "The GitHub update flow was installed and verified on a phone over 5G, including the post-install journal."
+      ]
+    },
+    {
+      "version": "0.10.1",
+      "date": "24 Sep 2026",
+      "title": "Atlas travels with you",
+      "notes": [
+        "The updater can find releases on GitHub even when the paired desktop is out of reach.",
+        "Downloads are checked for package, version, size, SHA-256 and the installed signing certificate before Android offers installation.",
+        "A verified Tailscale route lets the same desktop Companion answer your phone away from home."
+      ]
+    },
+    {
+      "version": "0.10.0",
+      "date": "Record unavailable",
+      "title": "An unrecorded step",
+      "notes": [
+        "No separate 0.10.0 Android release notes were preserved. The documented history resumes at 0.10.1."
+      ]
+    },
+    {
+      "version": "0.9.1",
+      "date": "24 Sep 2026",
+      "title": "Conversations with continuity",
+      "notes": [
+        "Phone chats gained their own encrypted conversation list, separate from desktop chats.",
+        "Atlas can retrieve relevant context from the 10 most recent phone chats without mixing them into desktop history.",
+        "Phone requests stay visible in the desktop Companion while their conversations remain separate."
+      ]
+    },
+    {
+      "version": "0.9.0",
+      "date": "24 Sep 2026",
+      "title": "His real voice",
+      "notes": [
+        "Live talk and Read use the voice selected in desktop Companion instead of the phone's generic system voice.",
+        "Voice travels over the existing authenticated, certificate-pinned connection and stops when you interrupt or leave Chat."
+      ]
+    },
+    {
+      "version": "0.8.0",
+      "date": "23 Sep 2026",
+      "title": "One Atlas, two screens",
+      "notes": [
+        "A live pairing QR links the phone to the normal desktop Companion.",
+        "Build progress, saved results and requested previews follow real work on the PC.",
+        "Live talk, optional reconnect, private Signals and explicit connection status made the companion more present."
+      ]
+    },
+    {
+      "version": "0.7.0",
+      "date": "23 Sep 2026",
+      "title": "Keep what you make",
+      "notes": [
+        "An encrypted mission library saves build receipts, step timelines and isolated website previews on the phone.",
+        "Interrupted work is labeled honestly. Refinement prepares a new draft, while Forget removes only the phone receipt."
+      ]
+    },
+    {
+      "version": "0.6.0",
+      "date": "23 Sep 2026",
+      "title": "The droid comes alive",
+      "notes": [
+        "New shared sprite animations let the original Atlas greet, listen, think, speak, code, review and rest on both devices.",
+        "Phone requests summon the existing desktop Companion and show their real work there."
+      ]
+    },
+    {
+      "version": "0.5.0",
+      "date": "23 Sep 2026",
+      "title": "More than a chat",
+      "notes": [
+        "You could attach a photo, follow phone-origin build milestones and preview a generated website.",
+        "Encrypted memory cards became separate from chat, with explicit save, edit and delete controls.",
+        "On-device dictation and private VPN pairing laid the foundation for using Atlas away from home."
+      ]
+    },
+    {
+      "version": "0.4.0",
+      "date": "22 Sep 2026",
+      "title": "A companion takes shape",
+      "notes": [
+        "The original droid gained a warm native stage, custom type, amber light and a more expressive phone interface.",
+        "Chat, navigation, composer, connection and update journal were redesigned with accessible motion controls."
+      ]
+    }
+  ]
+}
