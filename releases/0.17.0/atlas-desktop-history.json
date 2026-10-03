@@ -1,0 +1,108 @@
+{
+  "releases": [
+    {
+      "version": "0.17.0",
+      "date": "2026-10-03",
+      "title": "Nocturne and Raevin",
+      "notes": [
+        "Nocturne brings obsidian surfaces, silver typography and restrained blue light to desktop and Android.",
+        "Android gains refined Chat, Projects, Home and Signals screens, plus updated pairing, memory, libraries, launcher and widget.",
+        "Raevin uses a natural charcoal raven with blue wing particles and 32 smoothly blended gestures.",
+        "Desktop chat, workspace, Build Studio, memory, model setup and quick commands share the new visual direction.",
+        "Reduced motion, phone lifecycle and battery-saving behavior remain supported.",
+        "The app keeps its existing pairing, package identity and Hey Atlas wake phrase. Repeated wake detection remains experimental."
+      ],
+      "details": "docs/public/RELEASE_0.17.0.md"
+    },
+    {
+      "version": "0.16.6",
+      "date": "2026-10-03",
+      "title": "Verified update packaging and phone repairs",
+      "notes": [
+        "Compressed native libraries keep the Android APK within the existing updater limit, with all four CPU architectures retained.",
+        "Builds check APK size, and release preflight validates bounded notes before creating version tags.",
+        "Local voice selects the optional fidelity model using its corrected checksum.",
+        "Offline English speech setup, alarm scheduling, draft recovery and approval/photo controls include recent repairs.",
+        "Shared encrypted memory, the Brain view, desktop chat and companion improvements are included.",
+        "Hey Atlas standby remains experimental: repeated wake detection is not reliable on the tested phone."
+      ],
+      "details": "docs/public/RELEASE_0.16.6.md"
+    },
+    {
+      "version": "0.16.5",
+      "date": "2026-10-03",
+      "title": "Update packaging and phone reliability",
+      "notes": [
+        "Compressed native libraries keep the Android download within the existing updater size limit, with all supported CPU architectures retained.",
+        "Android builds check the APK size before it can reach release staging.",
+        "Local voice model selection, offline speech setup, alarm scheduling and approval controls include the recent Android repairs.",
+        "Hey Atlas standby remains experimental: repeated wake detection is not reliable on the tested phone."
+      ],
+      "details": "docs/public/RELEASE_0.16.5.md"
+    },
+    {
+      "version": "0.16.0",
+      "date": "2026-09-30",
+      "title": "One assistant, durable memory and local voice",
+      "notes": [
+        "Shared encrypted memory gains a Brain map, full-archive search and source-linked decisions and open questions.",
+        "Desktop chat supports readable controls, resizing, maximize and bounded speech cards; droid animations use calm idle poses and amber thinking instruments.",
+        "Optional Supertonic 3 provides CPU speech in 31 languages. Connected-phone replies use the selected desktop voice; local Android voice remains Kokoro.",
+        "Android Live Talk handles offline language errors and offers opt-in Hey Atlas standby with a visible microphone service.",
+        "Atlas-owned alarms and configured morning weather/news briefings use local phone audio. Location and sources are user settings.",
+        "Website builds wait for a confirmed brief, show elapsed progress, support cancellation and verify saved image references and mobile CSS.",
+        "Release provenance binds the complete private source commit to matching signed desktop updates, APKs, versioned installers and public metadata."
+      ],
+      "details": "docs/public/RELEASE_0.16.0.md"
+    },
+    {
+      "version": "0.15.0",
+      "date": "2026-09-28",
+      "title": "Shared memory and approved desktop actions",
+      "notes": [
+        "Phone and desktop conversations share an encrypted desktop archive with bounded sync, deletion tombstones and local phone caching.",
+        "An idle conversation editor preserves concise context for older chats while leaving the original turns encrypted and intact.",
+        "Windows Search result selection, named accessibility controls and local OCR provide approved actions in selected apps.",
+        "Paired Android requests can authorize a single web turn or explicitly enable web access until /web off.",
+        "The optional Ming Image workflow plans website assets, renders locally while the main brain rests and restores it before site construction.",
+        "An Atlas-branded Windows setup verifies prerequisites and creates a first-time Companion install without manual Python setup."
+      ],
+      "details": "docs/public/RELEASE_0.15.0.md"
+    },
+    {
+      "version": "0.14.0",
+      "date": "2026-09-28",
+      "title": "Atlas operates across desktop and phone",
+      "notes": [
+        "The amber companion adds a local first-run model chooser, with hardware fit estimates, explicit download consent and integrity checks.",
+        "Studio gains selected Windows control guidance, engineering missions with chosen tests, output watches, mid-plan changes, and honest project checkpoints.",
+        "Bounded OBS and Blender adapters, expiring phone conversation handoff, and encrypted Pocket Projects extend the approved desktop-to-phone workflow.",
+        "Smart Roam uses a private coarse layout scan to avoid busy screen areas. Quiet visuals pauses continuous effects while retaining deliberate roaming."
+      ],
+      "details": "docs/public/RELEASE_0.14.0.md"
+    },
+    {
+      "version": "0.13.1",
+      "date": "2026-09-26",
+      "title": "Pocket Tools display fix",
+      "notes": [
+        "Android Pocket Tools now paints its saved tool and keeps its native controls visible on affected phones.",
+        "A real paired Studio tool was downloaded, edited and reopened on a OnePlus 15. Its phone-side edit persisted.",
+        "The desktop companion behavior is unchanged; this signed desktop archive aligns the source, version and release documentation."
+      ],
+      "details": "docs/public/RELEASE_0.13.1.md"
+    },
+    {
+      "version": "0.13.0",
+      "date": "2026-09-26",
+      "title": "A companion across desktop and phone",
+      "notes": [
+        "The companion can move across both displays. Speech subtly favors the display where Atlas is standing.",
+        "Studio tools can be shared explicitly to paired Android devices and saved there for offline use.",
+        "An authenticated PC starter can launch the companion from Android while Windows is awake and signed in.",
+        "Android adds local alarms in Atlas's voice, timers and encrypted notes with phone-side approval."
+      ],
+      "details": "docs/public/RELEASE_0.13.0.md"
+    }
+  ]
+}

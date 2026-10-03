@@ -1,0 +1,16 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 32,
+  "versionName": "0.17.0",
+  "sha256": "e8925ecbdf848f9e6ad191444d6904eceb1184b7c782a74d6a7995a9d7920d0c",
+  "bytes": 94220670,
+  "minSdk": 26,
+  "notes": [
+    "Nocturne brings obsidian surfaces, silver typography and restrained blue light to desktop and Android.",
+    "Android gains refined Chat, Projects, Home and Signals screens, plus updated pairing, memory, libraries, launcher and widget.",
+    "Raevin uses a natural charcoal raven with blue wing particles and 32 smoothly blended gestures.",
+    "Desktop chat, workspace, Build Studio, memory, model setup and quick commands share the new visual direction.",
+    "Reduced motion, phone lifecycle and battery-saving behavior remain supported.",
+    "The app keeps its existing pairing, package identity and Hey Atlas wake phrase. Repeated wake detection remains experimental."
+  ]
+}
