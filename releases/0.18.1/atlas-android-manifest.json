@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 36,
+  "versionName": "0.18.1",
+  "sha256": "419c175c4caa931635a4fcaf4ad80693362ada54d9dc837fc72731720d126234",
+  "bytes": 95532192,
+  "minSdk": 26,
+  "notes": [
+    "Atlas uses the current desktop E3 body and pointy sensor ears across Home, Chat, alarms, the launcher, widget and update screens.",
+    "Warm amber light, charcoal panels and Chakra Petch headings bring the phone back to the Atlas identity.",
+    "The launcher icon and visible app name are Atlas again. The droid responds to connection, voice, work and approval state.",
+    "Reduced motion, background pauses and battery-saving behavior remain supported. Pairing and saved phone data keep the same app identity."
+  ]
+}

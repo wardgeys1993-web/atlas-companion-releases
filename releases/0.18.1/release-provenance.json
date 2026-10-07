@@ -1,0 +1,37 @@
+{
+  "version": "0.18.1",
+  "androidCode": 36,
+  "sourceRepository": "wardgeys1993-web/atlas-companion",
+  "sourceCommit": "da62d99fbd6e64d9bb21984d686433c096e41178",
+  "sourceTree": "5507bb0a99cb26294ac6e80f8924573bde340e28",
+  "sourceTag": "v0.18.1",
+  "platforms": [
+    "android"
+  ],
+  "testEvidence": {
+    "android-tests.json": "437260c7aa5da209c680533a9387eb11d6c60328978148338c4aa03e7f2d9e1c",
+    "secrets.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "assets": {
+    "Atlas-Android-0.18.1.apk": {
+      "sha256": "419c175c4caa931635a4fcaf4ad80693362ada54d9dc837fc72731720d126234",
+      "bytes": 95532192
+    },
+    "atlas-android-history.json": {
+      "sha256": "d66ee8affc726ede677428f53206efd5b331b05afcfbc8f76486d3c6192d7488",
+      "bytes": 17906
+    },
+    "atlas-android-manifest.json": {
+      "sha256": "7521c04fce5bf3423942220ec880ac3aea1636f93d67883a3259ce1f7f05e36f",
+      "bytes": 757
+    },
+    "release-notes.md": {
+      "sha256": "8654b90ce4c60d9892a41b1857330e889b4873d412a30408f70613f762e56ae6",
+      "bytes": 1200
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "82e745f356695e8809cc4c32652f0d67b5c27fbcbe38905c1dffaa9943a20e70",
+      "bytes": 365
+    }
+  }
+}
