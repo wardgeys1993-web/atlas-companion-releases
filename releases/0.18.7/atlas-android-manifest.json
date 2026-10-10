@@ -1,0 +1,15 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 42,
+  "versionName": "0.18.7",
+  "sha256": "e396660a2f7d7038c92cd49bd47cacd816d8c42e00994ec12a710b7b8f82e869",
+  "bytes": 95554524,
+  "minSdk": 26,
+  "notes": [
+    "Home shows model readiness, current work and useful next actions.",
+    "Desktop and Android share clearer navigation, readable controls and the Atlas droid.",
+    "Mission results distinguish reported progress, evidence, pending approvals and offline state.",
+    "Desktop supports compact windows, larger text and clearer model setup states.",
+    "Text-only drafts restore without phantom images. Local demo chat reconnects after backgrounding. Android refines memory and desktop linking."
+  ]
+}
