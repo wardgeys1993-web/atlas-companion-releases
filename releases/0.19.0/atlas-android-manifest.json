@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 44,
+  "versionName": "0.19.0",
+  "sha256": "a0ff3eca4fcd49bb4db16bb0fbcab1f2c2756361a3893fb1085a69ffce8d76d2",
+  "bytes": 95662292,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.24 adds GPU-managed compressed expert execution for native Qwen3.5 35B A3B.",
+    "Atlas can be minimized and restored from the Windows taskbar while its model keeps running.",
+    "Qwen 9B, Gemma 12B and the managed fallback remain available.",
+    "Android includes opt-in home Wi-Fi welcomes, secure arrival delivery and wake-phrase punctuation fixes."
+  ]
+}
