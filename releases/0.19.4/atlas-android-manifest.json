@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 48,
+  "versionName": "0.19.4",
+  "sha256": "e7e07920ef8d831270d61852faef155f9e33809b6732e94465611dc560ebf412",
+  "bytes": 95662980,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.28 keeps separate validated prepared prompt caches for each model.",
+    "Returning to a previously prepared model can reuse its own system and tool prefix.",
+    "A shared eight GiB and eight-entry limit bounds stored caches; incompatible or damaged entries rebuild normally.",
+    "Existing Qwen, Gemma and managed inference fallback remain available. Android receives matching release metadata."
+  ]
+}
