@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 46,
+  "versionName": "0.19.2",
+  "sha256": "99f51c06712e8752703ccc79611bc1a5105c987bef6eaebfc1c19e28aba325a8",
+  "bytes": 95662700,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.26 accelerates exact compressed-expert execution for Qwen3.5 35B A3B.",
+    "Adaptive expert residency uses available GPU memory while preserving existing memory reserves.",
+    "Gemma prepares its tool prompt more efficiently. Fully specified tool requests use focused model input with normal validation and approval.",
+    "Qwen 9B, Gemma and managed inference fallback remain available. Android receives matching release metadata."
+  ]
+}
