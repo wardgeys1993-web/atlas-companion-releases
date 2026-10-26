@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 45,
+  "versionName": "0.19.1",
+  "sha256": "69f612307f829ea4f4184d465ccb69714237e0f9df4851daca10334c7ace08b3",
+  "bytes": 95662452,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.25 improves Gemma compressed-weight execution and prompt processing.",
+    "Explicit Qwen calculator and security tool requests use validated tool arguments and truthful completion receipts.",
+    "Windows Security controls expose Defender status, approved scans and reviewed remediation.",
+    "Qwen, Gemma and managed inference fallback remain available. Android receives matching release metadata."
+  ]
+}
