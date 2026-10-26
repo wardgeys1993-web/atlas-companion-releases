@@ -1,0 +1,58 @@
+{
+  "version": "0.19.3",
+  "androidCode": 47,
+  "sourceRepository": "wardgeys1993-web/atlas-companion",
+  "sourceCommit": "5096a3c977f77177add2a86b50fed33407d9aab7",
+  "sourceTree": "e37e35cc1bba4c5f898d3d6add002f64e88bd3a1",
+  "sourceTag": "v0.19.3",
+  "platforms": [
+    "android",
+    "windows"
+  ],
+  "testEvidence": {
+    "desktop-tests.json": "51939ac00101d9bb4a4a4d0046c59016226b1e0476a6cdb0354c9f81c8b3815c",
+    "secrets.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "assets": {
+    "Atlas-0.19.3-update.zip": {
+      "sha256": "23b642650f3494470e648e12cd2ba874521da2e03b75a25d7e4bc34d6ad4a1cb",
+      "bytes": 42669794
+    },
+    "Atlas-Android-0.19.3.apk": {
+      "sha256": "a122d1770539e0ab65948c593ea75f5e111c6d004e0dd2106b1a80b80499caf9",
+      "bytes": 95662824
+    },
+    "atlas-android-history.json": {
+      "sha256": "808a5f48a15382790fd3f8b67033ab61db5b3797122f43a4f81e069f461adb27",
+      "bytes": 21543
+    },
+    "atlas-android-manifest.json": {
+      "sha256": "2ba568c04e5641c3566a81a483fe4c051a5079e13ce45a57ad4d60307347664a",
+      "bytes": 646
+    },
+    "atlas-desktop-history.json": {
+      "sha256": "0cbf7836ce28d93a8f47544f17a981e04001b227e5c133ac76f2b451b49a2ce7",
+      "bytes": 10171
+    },
+    "atlas-desktop-manifest.json": {
+      "sha256": "48056715541ef878f962a196b399f34a7b52039a0a61fd4d55b3a99eea699543",
+      "bytes": 194
+    },
+    "atlas-installer-manifest.json": {
+      "sha256": "db002e21f55880b3f11b06f862531db2e9e0f56bdc97754b48706daa0560d5da",
+      "bytes": 361
+    },
+    "AtlasSetup-0.19.3.exe": {
+      "sha256": "348057bea9382c4b846c2c606a0047056fa92f08645ec5307cdecf09a23b6edf",
+      "bytes": 66790559
+    },
+    "release-notes.md": {
+      "sha256": "8713979b93bcd9b56ef957cab6859b4ca747c91ab66bb97a841f78206d1d0885",
+      "bytes": 1334
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "8e762a99c771587c707f05efc0f50b60d12b738987961bf747edc08969869018",
+      "bytes": 831
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 47,
+  "versionName": "0.19.3",
+  "sha256": "a122d1770539e0ab65948c593ea75f5e111c6d004e0dd2106b1a80b80499caf9",
+  "bytes": 95662824,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.27 adds native Qwen3.6 35B A3B and experimental Qwen3-Next 80B A3B text runtime paths.",
+    "Q3_K and BF16 compressed weights use native decoding and bounded memory planning.",
+    "Qwen3-Next uses its JSON tool protocol with schema validation and normal approvals.",
+    "Existing Qwen, Gemma and managed inference fallback remain available. Android receives matching release metadata."
+  ]
+}
