@@ -1,0 +1,13 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 50,
+  "versionName": "0.19.6",
+  "sha256": "f9f069e34a9efc2f4a7a9cd0f312b073b544d93a8befa20d465606628a8e4385",
+  "bytes": 95663240,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.30 reuses a bounded host expert cache for selected Qwen3-Next prompt transfers.",
+    "A proven native 80B write and read can skip a redundant model answer check while approvals and uncertain cases retain normal verification.",
+    "Existing Qwen, Gemma and managed inference fallback remain available. Android receives matching release metadata."
+  ]
+}

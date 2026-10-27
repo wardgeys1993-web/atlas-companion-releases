@@ -1,0 +1,59 @@
+{
+  "version": "0.19.6",
+  "androidCode": 50,
+  "sourceRepository": null,
+  "sourceCommit": "98f998cce1c2458139210104b23c706332751deb",
+  "sourceTree": "43c91bef711bc809f2cc55200f39b1bf15454744",
+  "sourceTag": null,
+  "platforms": [
+    "android",
+    "windows"
+  ],
+  "testEvidence": {
+    "desktop-tests.json": "e365f16319113cd7491236e3f6696dccdc193acdb8a738910f48df2780def51c",
+    "secrets.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "assets": {
+    "Atlas-0.19.6-update.zip": {
+      "sha256": "19278db737b7e701f18e794b4a22de51cadb38fbbbd9f2ec7635df0894029b82",
+      "bytes": 42681317
+    },
+    "Atlas-Android-0.19.6.apk": {
+      "sha256": "f9f069e34a9efc2f4a7a9cd0f312b073b544d93a8befa20d465606628a8e4385",
+      "bytes": 95663240
+    },
+    "atlas-android-history.json": {
+      "sha256": "0ec5978bba39135fededa946fd9d9b5dc9a21efdf2b25e34c0a29bdbe08284a3",
+      "bytes": 23448
+    },
+    "atlas-android-manifest.json": {
+      "sha256": "2238e2a006456e1ce50940e5807799b8720ac70520328d498e3f5cc9421f2c44",
+      "bytes": 604
+    },
+    "atlas-desktop-history.json": {
+      "sha256": "a243016e2921081325c54251449d14216fffbc6d180bced754ff76038a874b52",
+      "bytes": 12076
+    },
+    "atlas-desktop-manifest.json": {
+      "sha256": "5ba0c793f6194c5022386b5c6f556d106a091e3e440cec587b6daff507580bad",
+      "bytes": 194
+    },
+    "atlas-installer-manifest.json": {
+      "sha256": "f46147e6f9e93dfe15a670139427ac340cc50439005dfc7f04a9db60d5919461",
+      "bytes": 361
+    },
+    "AtlasSetup-0.19.6.exe": {
+      "sha256": "73d7b7018b3f932821fd4be118f8ad00c8d221b1a768d79a8724532dee7caf6a",
+      "bytes": 66800678
+    },
+    "release-notes.md": {
+      "sha256": "484c73e1ffaf58901685b69aa0db6930e0d181e04c671eb4cb7000b349902ea5",
+      "bytes": 778
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "9d69e34f025a4db5318d96d5303b16e746b80124a47b0dc3282ac261732b69a5",
+      "bytes": 831
+    }
+  },
+  "sourceStorage": "local-verified-bundle"
+}
