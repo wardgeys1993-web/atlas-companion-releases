@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 49,
+  "versionName": "0.19.5",
+  "sha256": "2069de3423b47acd509e5ab52d18fcf88cbe6d75d1e816f8544e164a99868dcc",
+  "bytes": 95663128,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.29 accelerates Qwen3-Next compressed expert token generation.",
+    "A bounded host expert cache preserves memory reserves and releases its allocations under pressure or when unloaded.",
+    "Complete model validation overlaps initialization, while prepared model caches remain independently validated.",
+    "Existing Qwen, Gemma and managed inference fallback remain available. Android receives matching release metadata."
+  ]
+}
