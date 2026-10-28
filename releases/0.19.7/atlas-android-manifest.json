@@ -1,0 +1,14 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 51,
+  "versionName": "0.19.7",
+  "sha256": "162eba4b30b0f3912602142fd50634ecc7ccc74f36a825c249e8a3661599a0f9",
+  "bytes": 95663516,
+  "minSdk": 26,
+  "notes": [
+    "Atlas Engine 0.31 uses compact JSON formatting for the Qwen3-Next tool catalog while retaining the complete tool descriptions and schemas.",
+    "Explicit native 80B read-only tool requests use the declared tool path and retain normal validation and permissions.",
+    "The shorter prompt reduces work during first preparation. Startup and response times depend on hardware and cache state.",
+    "Existing Qwen, Gemma and managed inference paths remain available. Android receives matching release metadata."
+  ]
+}
