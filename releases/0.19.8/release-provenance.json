@@ -1,0 +1,59 @@
+{
+  "version": "0.19.8",
+  "androidCode": 52,
+  "sourceRepository": null,
+  "sourceCommit": "c85dd8ea6bcd54afeba3f5d8bb98d96906f2958c",
+  "sourceTree": "922bec588cc692bc43d487aa907fc849bc03f431",
+  "sourceTag": null,
+  "platforms": [
+    "android",
+    "windows"
+  ],
+  "testEvidence": {
+    "desktop-tests.json": "7b6b25f5196cb96f69ccacdb89a915de89987314c0228d3219e415ee6bfeeed4",
+    "secrets.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "assets": {
+    "Atlas-0.19.8-update.zip": {
+      "sha256": "a3c38c505e809a65880cf2c33e1cd2cf97c60cedd059dbfafdc9644739856dfd",
+      "bytes": 42686019
+    },
+    "Atlas-Android-0.19.8.apk": {
+      "sha256": "7a4a55dce3dbdbffa6d6db3566aca0e0f3fdb9643385c1092be3c6d839e539f9",
+      "bytes": 95663976
+    },
+    "atlas-android-history.json": {
+      "sha256": "cd3056a5422c38d676fff5e0960aa43a738507788a75e51e0a57d0edf129aaa1",
+      "bytes": 25213
+    },
+    "atlas-android-manifest.json": {
+      "sha256": "28b6f36a4b6ad193d6be1b6ffb7ffd141a951ece0a93023d8f5656b0e8090b88",
+      "bytes": 1021
+    },
+    "atlas-desktop-history.json": {
+      "sha256": "54f43ba2af0fcc05cfe95a43c24b9163df18ecc8ea7c209f6fb7f0aed256267b",
+      "bytes": 13841
+    },
+    "atlas-desktop-manifest.json": {
+      "sha256": "d3ae26515413ff013b61e28a339b475bd2ab0686d95ddc0f2e9295b2ec8614ec",
+      "bytes": 194
+    },
+    "atlas-installer-manifest.json": {
+      "sha256": "bcee096d97694066af9e33a494b5505470a1d1ae3c89688f2d400643201a3f74",
+      "bytes": 361
+    },
+    "AtlasSetup-0.19.8.exe": {
+      "sha256": "3fffaf321302b8411d233a23f3bf265461f2954e528a7240553ba73e9b9601b6",
+      "bytes": 66804905
+    },
+    "release-notes.md": {
+      "sha256": "2d0bc861d11dfd443bd38f81b677fd2eba4942188522027b5132e73dd175f383",
+      "bytes": 1091
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "a2d06557d6393d6f91e4219aa58492c0df108d7c64e8d56617ba71c0272a0430",
+      "bytes": 831
+    }
+  },
+  "sourceStorage": "local-verified-bundle"
+}
