@@ -1,0 +1,38 @@
+{
+  "version": "0.19.15",
+  "androidCode": 59,
+  "sourceRepository": null,
+  "sourceCommit": "2384397c1bb14e3ace3133c609eca9c4357667fb",
+  "sourceTree": "7d119281ed28affa1c644621ba588defbb622b8d",
+  "sourceTag": null,
+  "platforms": [
+    "android"
+  ],
+  "testEvidence": {
+    "android-tests.json": "fd9959e05ffae676c1d507fe84c3c1f9730665a99e8015196a3bf7c7005551fc",
+    "secrets.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  "assets": {
+    "Atlas-Android-0.19.15.apk": {
+      "sha256": "2b261797802538bef8787856cf5350f20dfb128b01c094481bc9105d0d4b45fa",
+      "bytes": 96292493
+    },
+    "atlas-android-history.json": {
+      "sha256": "6cfa77fa4a1d390f05aac42a9cba6bdff616ba0bfe1b4b7b85f719898bf651c9",
+      "bytes": 27101
+    },
+    "atlas-android-manifest.json": {
+      "sha256": "dc587fcfc60f2ff92a72d68d9c176574b6c7c6c70ded4ecc4e43236a1af84e4d",
+      "bytes": 537
+    },
+    "release-notes.md": {
+      "sha256": "037083c7edf22a9b532dad273f4c6e190affccb21d4cd1c30b9796cf1203d2a5",
+      "bytes": 392
+    },
+    "SHA256SUMS.txt": {
+      "sha256": "fe6cd1afd0681ed4c0d393dc1e662159a4b741ba74e359f9fab77096f474626c",
+      "bytes": 366
+    }
+  },
+  "sourceStorage": "local-verified-bundle"
+}

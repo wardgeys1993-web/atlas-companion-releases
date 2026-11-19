@@ -1,0 +1,13 @@
+{
+  "packageName": "com.atlas.mobile",
+  "versionCode": 59,
+  "versionName": "0.19.15",
+  "sha256": "2b261797802538bef8787856cf5350f20dfb128b01c094481bc9105d0d4b45fa",
+  "bytes": 96292493,
+  "minSdk": 26,
+  "notes": [
+    "Start Live Talk or dictate a draft directly from the Message Atlas box.",
+    "Amber lighting traces the welcome cover and responds when you focus the composer. Reduced motion shows the finished line immediately.",
+    "Pick up a saved draft from Home and open the details of interrupted work."
+  ]
+}
